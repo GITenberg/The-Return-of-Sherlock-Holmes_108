@@ -1,0 +1,72 @@
+_repo: The-Return-of-Sherlock-Holmes_108
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Doyle, Arthur Conan
+    aliases:
+    - Conan Doyle, Arthur, Sir
+    - Doyle, Sir Arthur Conan
+    - Doyle, A. Conan
+    birthdate: 1859
+    deathdate: 1930
+    gutenberg_agent_id: '69'
+    url: http://www.gutenberg.org/2009/agents/69
+    wikipedia: http://en.wikipedia.org/wiki/Arthur_Conan_Doyle
+description: "The Return of Sherlock Holmes is a collection of 13 Sherlock Holmes\
+  \ stories, originally published in 1903-1904, by Arthur Conan Doyle. The stories\
+  \ were published in the Strand Magazine in Great Britain, and Collier's in the United\
+  \ States.\n From Wikipedia (CC BY-SA)."
+gutenberg_bookshelf: Detective Fiction
+gutenberg_issued: '2006-03-08'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '108'
+  wikidata: Q725752
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Detective and mystery stories, English'
+- !lcsh 'Holmes, Sherlock (Fictitious character) -- Fiction'
+- !lcc 'PR'
+- GITenberg
+tableOfContents: The adventure of the empty house -- The adventure of the Norwood
+  builder -- The adventure of the dancing men -- The adventure of the solitary cyclist
+  -- The adventure of the priory school -- The adventure of Black Peter -- The adventure
+  of Charles Augustus Milverton -- The adventure of the six Napoleons -- The adventure
+  of the three students -- The adventure of the golden pince-nez -- The adventure
+  of the missing three-quarter -- The adventure of the Abbey Grange -- The adventure
+  of the second stain.
+title: The Return of Sherlock Holmes
+url: http://www.gutenberg.org/ebooks/108
+wikipedia:
+- https://fa.wikipedia.org/wiki/%D8%A8%D8%A7%D8%B2%DA%AF%D8%B4%D8%AA_%D8%B4%D8%B1%D9%84%D9%88%DA%A9_%D9%87%D9%84%D9%85%D8%B2
+- https://ky.wikipedia.org/wiki/%D0%A8%D0%B5%D1%80%D0%BB%D0%BE%D0%BA_%D0%A5%D0%BE%D0%BB%D0%BC%D1%81%D1%82%D1%83%D0%BD_%D0%BA%D0%B0%D0%B9%D1%82%D1%8B%D0%BF_%D0%BA%D0%B5%D0%BB%D2%AF%D2%AF%D1%81%D2%AF
+- https://en.wikisource.org/wiki/The_Return_of_Sherlock_Holmes
+- https://uk.wikipedia.org/wiki/%D0%9F%D0%BE%D0%B2%D0%B5%D1%80%D0%BD%D0%B5%D0%BD%D0%BD%D1%8F_%D0%A8%D0%B5%D1%80%D0%BB%D0%BE%D0%BA%D0%B0_%D0%A5%D0%BE%D0%BB%D0%BC%D1%81%D0%B0
+- https://fr.wikisource.org/wiki/La_R%C3%A9surrection_de_Sherlock_Holmes
+- https://ja.wikipedia.org/wiki/%E3%82%B7%E3%83%A3%E3%83%BC%E3%83%AD%E3%83%83%E3%82%AF%E3%83%BB%E3%83%9B%E3%83%BC%E3%83%A0%E3%82%BA%E3%81%AE%E5%B8%B0%E9%82%84
+- https://pt.wikipedia.org/wiki/The_Return_of_Sherlock_Holmes
+- https://es.wikipedia.org/wiki/El_regreso_de_Sherlock_Holmes
+- https://sk.wikipedia.org/wiki/N%C3%A1vrat_Sherlocka_Holmesa
+- https://en.wikipedia.org/wiki/The_Return_of_Sherlock_Holmes
+- https://ru.wikipedia.org/wiki/%D0%92%D0%BE%D0%B7%D0%B2%D1%80%D0%B0%D1%89%D0%B5%D0%BD%D0%B8%D0%B5_%D0%A8%D0%B5%D1%80%D0%BB%D0%BE%D0%BA%D0%B0_%D0%A5%D0%BE%D0%BB%D0%BC%D1%81%D0%B0
+- https://ro.wikipedia.org/wiki/%C3%8Entoarcerea_lui_Sherlock_Holmes
+- https://ko.wikipedia.org/wiki/%EC%85%9C%EB%A1%9D_%ED%99%88%EC%A6%88%EC%9D%98_%EA%B7%80%ED%99%98
+- https://et.wikipedia.org/wiki/Sherlock_Holmesi_tagasitulek
+- https://fr.wikipedia.org/wiki/Le_Retour_de_Sherlock_Holmes
+- https://sh.wikipedia.org/wiki/The_Return_of_Sherlock_Holmes
+- https://zh.wikipedia.org/wiki/%E7%A6%8F%E7%88%BE%E6%91%A9%E6%96%AF%E6%AD%B8%E4%BE%86%E8%A8%98
+- https://pl.wikipedia.org/wiki/Powr%C3%B3t_Sherlocka_Holmesa
+- https://hu.wikipedia.org/wiki/Sherlock_Holmes_visszat%C3%A9r
+- https://sv.wikipedia.org/wiki/Sherlock_Holmes_%C3%A5terkomst
+- https://th.wikipedia.org/wiki/%E0%B9%80%E0%B8%8A%E0%B8%AD%E0%B8%A3%E0%B9%8C%E0%B8%A5%E0%B9%87%E0%B8%AD%E0%B8%81_%E0%B9%82%E0%B8%AE%E0%B8%A1%E0%B8%AA%E0%B9%8C_%E0%B8%8A%E0%B8%B8%E0%B8%94_%E0%B8%84%E0%B8%B7%E0%B8%99%E0%B8%8A%E0%B8%B5%E0%B8%9E
+- https://mk.wikipedia.org/wiki/%D0%92%D1%80%D0%B0%D1%9C%D0%B0%D1%9A%D0%B5%D1%82%D0%BE_%D0%BD%D0%B0_%D0%A8%D0%B5%D1%80%D0%BB%D0%BE%D0%BA_%D0%A5%D0%BE%D0%BB%D0%BC%D1%81
+- https://ar.wikipedia.org/wiki/%D8%B9%D9%88%D8%AF%D8%A9_%D8%B4%D9%8A%D8%B1%D9%84%D9%88%D9%83_%D9%87%D9%88%D9%84%D9%85%D8%B2
+- https://nl.wikipedia.org/wiki/De_terugkeer_van_Sherlock_Holmes
+- https://id.wikipedia.org/wiki/Kembalinya_Sherlock_Holmes
+- https://de.wikipedia.org/wiki/Die_R%C3%BCckkehr_des_Sherlock_Holmes
+- https://bg.wikipedia.org/wiki/%D0%97%D0%B0%D0%B2%D1%80%D1%8A%D1%89%D0%B0%D0%BD%D0%B5%D1%82%D0%BE_%D0%BD%D0%B0_%D0%A8%D0%B5%D1%80%D0%BB%D0%BE%D0%BA_%D0%A5%D0%BE%D0%BB%D0%BC%D1%81
+- https://it.wikipedia.org/wiki/Il_ritorno_di_Sherlock_Holmes
+- https://he.wikipedia.org/wiki/%D7%A9%D7%95%D7%91%D7%95_%D7%A9%D7%9C_%D7%A9%D7%A8%D7%9C%D7%95%D7%A7_%D7%94%D7%95%D7%9C%D7%9E%D7%A1
