@@ -1,5 +1,8 @@
 _repo: The-Return-of-Sherlock-Holmes_108
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Doyle, Arthur Conan
@@ -16,6 +19,8 @@ description: "The Return of Sherlock Holmes is a collection of 13 Sherlock Holme
   \ stories, originally published in 1903-1904, by Arthur Conan Doyle. The stories\
   \ were published in the Strand Magazine in Great Britain, and Collier's in the United\
   \ States.\n From Wikipedia (CC BY-SA)."
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/108#The-Return-of-Sherlock-Holmes
 gutenberg_bookshelf: Detective Fiction
 gutenberg_issued: '2006-03-08'
 gutenberg_type: Text
